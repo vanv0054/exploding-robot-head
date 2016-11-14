@@ -19,6 +19,7 @@ body {
 
 .robot {
   width: 320px;
+  transform: translate(-50%);
 }
 
 .robot-body {
