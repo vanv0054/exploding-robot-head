@@ -37,3 +37,15 @@ body {
 .robot-head-left {
   width: 125px;
 }
+
+.robot-head-left {
+  position: relative;
+  left: 15px;
+  bottom: 45px;
+}
+
+.robot-head-right {
+  position: relative;
+  left: 269px;
+  bottom: 45px;
+}
